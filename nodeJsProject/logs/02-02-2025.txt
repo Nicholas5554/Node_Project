@@ -1,0 +1,42 @@
+02/02/2025 | 17:45:55 | PATCH | /cards/678bec7f9d9379117f2ea121 | 401 | 1.900ms
+02/02/2025 | 18:00:06 | PATCH | /cards/678bec7f9d9379117f2ea121 | 401 | 13.013ms
+02/02/2025 | 18:00:40 | PATCH | /cards/678bec7f9d9379117f2ea121 | 400 | 4.337ms
+02/02/2025 | 18:07:03 | PATCH | /cards/678bec7f9d9379117f2ea121 | 500 | 10.294ms
+02/02/2025 | 18:09:59 | PATCH | /cards/678bec7f9d9379117f2ea121 | 500 | 17.984ms
+02/02/2025 | 18:10:19 | PATCH | /cards/678bec7f9d9379117f2ea121 | 500 | 13.416ms
+02/02/2025 | 18:19:17 | PATCH | /cards/678bec7f9d9379117f2ea121 |  | undefinedms
+02/02/2025 | 18:19:19 | PATCH | /cards/678bec7f9d9379117f2ea121 |  | undefinedms
+02/02/2025 | 18:19:32 | PATCH | /cards/678bec7f9d9379117f2ea121 |  | undefinedms
+02/02/2025 | 18:26:34 | PATCH | /cards/bizNumber/678bec7f9d9379117f2ea121 | 500 | 31.261ms
+02/02/2025 | 18:27:44 | PATCH | /cards/bizNumber/678bec7f9d9379117f2ea121 | 409 | 3.994ms
+02/02/2025 | 18:38:40 | PATCH | /cards/bizNumber/678bec7f9d9379117f2ea121 | 500 | 16.281ms
+02/02/2025 | 18:49:53 | PATCH | /cards/bizNumber/678bec7f9d9379117f2ea121 | 409 | 4.747ms
+02/02/2025 | 18:49:57 | PATCH | /cards/bizNumber/678bec7f9d9379117f2ea121 | 409 | 3.801ms
+02/02/2025 | 18:55:05 | PATCH | /cards/bizNumber/678bec7f9d9379117f2ea121 | 500 | 19.903ms
+02/02/2025 | 18:59:05 | PATCH | /cards/bizNumber/678bec7f9d9379117f2ea121 | 401 | 2.398ms
+02/02/2025 | 20:10:45 | PATCH | /users/ | 404 | 3.599ms
+02/02/2025 | 20:24:46 | GET | /users/ | 401 | 2.068ms
+02/02/2025 | 20:32:01 | PUT | /users/6783f1edef9e5b8dfa8900dc | 401 | 15.557ms
+02/02/2025 | 20:33:26 | POST | /users/login | 404 | 5.902ms
+02/02/2025 | 20:33:39 | POST | /users/login | 404 | 2.953ms
+02/02/2025 | 20:34:17 | PUT | /users/6777d46b4d042ea26247e72d | 400 | 12.895ms
+02/02/2025 | 20:34:33 | PUT | /users/6777d46b4d042ea26247e72d | 400 | 5.130ms
+02/02/2025 | 20:37:46 | PUT | /users/6777d46b4d042ea26247e72d | 400 | 30.043ms
+02/02/2025 | 20:38:27 | PUT | /users/6777d46b4d042ea26247e72d | 400 | 25.630ms
+02/02/2025 | 20:38:54 | PUT | /users/6777d46b4d042ea26247e72d | 400 | 6.037ms
+02/02/2025 | 20:39:09 | PUT | /users/6777d46b4d042ea26247e72d | 400 | 23.887ms
+02/02/2025 | 20:45:30 | POST | /users/register | 500 | 16.005ms
+02/02/2025 | 20:45:43 | POST | /users/register | 500 | 5.809ms
+02/02/2025 | 20:46:15 | POST | /users/register | 500 | 40.345ms
+02/02/2025 | 20:51:50 | POST | /users/register | 500 | 14.092ms
+02/02/2025 | 20:52:26 | POST | /users/register | 500 | 6.394ms
+02/02/2025 | 20:52:35 | POST | /users/register | 500 | 5.523ms
+02/02/2025 | 20:54:44 | POST | /users/register | 500 | 33.665ms
+02/02/2025 | 20:55:52 | POST | /users/register | 500 | 9.814ms
+02/02/2025 | 20:56:13 | POST | /users/register | 500 | 5.290ms
+02/02/2025 | 20:56:45 | POST | /users/register | 500 | 4.514ms
+02/02/2025 | 20:57:45 | POST | /users/register | 500 | 30.742ms
+02/02/2025 | 20:58:43 | POST | /users/register | 500 | 33.204ms
+02/02/2025 | 21:00:19 | POST | /users/register | 500 | 14.929ms
+02/02/2025 | 21:00:37 | POST | /users/register | 500 | 6.549ms
+02/02/2025 | 21:00:49 | GET | /users/ | 401 | 2.359ms

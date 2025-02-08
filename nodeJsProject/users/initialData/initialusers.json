@@ -1,0 +1,74 @@
+[
+    {
+        "name": {
+            "first": "Nick",
+            "middle": "",
+            "last": "Nicko"
+        },
+        "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/o2QR532EoNCFnrvjuia6r6-320-80.jpg",
+            "alt": "iphone 16"
+        },
+        "isBusiness": true,
+        "isAdmin": true,
+        "phone": "0541231234",
+        "email": "nick@gmail.com",
+        "password": "Nick1234!",
+        "address": {
+            "state": "",
+            "country": "Israel",
+            "city": "Ashdod",
+            "street": "Ashdod city",
+            "houseNumber": 130,
+            "zip": 12345
+        }
+    },
+    {
+        "name": {
+            "first": "Bob",
+            "middle": "",
+            "last": "Bobby"
+        },
+        "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/o2QR532EoNCFnrvjuia6r6-320-80.jpg",
+            "alt": "iphone 16"
+        },
+        "isBusiness": true,
+        "isAdmin": false,
+        "phone": "0531231234",
+        "email": "bob@gmail.com",
+        "password": "Bob1234!",
+        "address": {
+            "state": "",
+            "country": "USA",
+            "city": "LA",
+            "street": "LA city",
+            "houseNumber": 330,
+            "zip": 12345
+        }
+    },
+    {
+        "name": {
+            "first": "jimmy",
+            "middle": "",
+            "last": "william"
+        },
+        "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/o2QR532EoNCFnrvjuia6r6-320-80.jpg",
+            "alt": "iphone 16"
+        },
+        "isBusiness": false,
+        "isAdmin": false,
+        "phone": "0521231234",
+        "email": "jimmy@gmail.com",
+        "password": "Jimmy12345!",
+        "address": {
+            "state": "",
+            "country": "UK",
+            "city": "London",
+            "street": "London city",
+            "houseNumber": 45123,
+            "zip": 12345
+        }
+    }
+]
