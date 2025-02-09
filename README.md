@@ -1,5 +1,9 @@
 # Node_Project
 
+note* 
+
+*make sure to run command npm i to download the node_models so that the project works as intended*
+
 This is a Node.js backend project that provides a RESTful API for user authentication and card management. Users can create an account and, after authentication, perform CRUD operations on cards. The project follows best practices for security, validation, and logging.
 
 Technologies Used
