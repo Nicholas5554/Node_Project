@@ -108,7 +108,7 @@ userRouter.delete("/:id", auth, adminOrUser, async (req, res) => {
     try {
         const user = await getUserById(id);
         res.json({ message: "User Deleted", user });
-        await user.deleteOne(user);
+        await User.findByIdAndDelete(user._id);
 
     } catch (err) {
         res.status(500).send(err.message);
