@@ -1,33 +1,36 @@
-# Node_Project
+NEX Back-end
 
 note* 
 
 *make sure to run command npm i to download the node_models so that the project works as intended*
 
-This is a Node.js backend project that provides a RESTful API for user authentication and card management. Users can create an account and, after authentication, perform CRUD operations on cards. The project follows best practices for security, validation, and logging.
+This is the backend server for NEX, a task management platform. It provides a secure RESTful API for user authentication, task management, and discussion handling. The project emphasizes best practices for security, validation, and efficient API design.
 
 Technologies Used
 
-Express.js - Framework for handling routes and middleware.
+    Express.js: Framework for building server-side APIs.
 
-Mongoose - ODM for MongoDB to manage database schemas and operations.
+    Mongoose: ODM for MongoDB, managing data models and queries.
 
-CORS - Middleware for handling Cross-Origin Resource Sharing.
+    CORS: Middleware to enable Cross-Origin Resource Sharing.
 
-Morgan - HTTP request logger for debugging and monitoring API requests.
+    Morgan: HTTP request logger for better debugging and API monitoring.
 
-Dotenv - Manages environment variables securely.
+    Dotenv: Loads environment variables securely.
 
-Jsonwebtoken - Implements authentication using JWT tokens.
+    Jsonwebtoken: Implements JWT-based authentication for users.
 
-Joi - Validates user input to ensure data integrity.
+    Joi: Validates incoming data to ensure proper formatting and security.
 
-Bcryptjs - Hashes passwords to enhance security.
+    Bcryptjs: Securely hashes user passwords before storage.
 
 Documentation :
 
 users :
-https://documenter.getpostman.com/view/40123452/2sAYX8Kgx6#1c64e3c9-b016-4770-af6a-c19bd753873d
+https://documenter.getpostman.com/view/40123452/2sB2j1hCJB
 
-cards :
-https://documenter.getpostman.com/view/40123452/2sAYX8KhBD
+tasks :
+https://documenter.getpostman.com/view/40123452/2sB2j1hCJC
+
+discussions :
+https://documenter.getpostman.com/view/40123452/2sB2j1hCJD
